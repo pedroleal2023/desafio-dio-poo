@@ -1,3 +1,4 @@
+import br.com.desafio.dominio.Conteudo;
 import br.com.desafio.dominio.Curso;
 import br.com.desafio.dominio.Mentoria;
 
